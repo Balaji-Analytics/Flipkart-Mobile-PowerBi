@@ -1,42 +1,75 @@
-# Flipkart Mobile Price Analysis Dashboard
+# 📱 Flipkart Mobile Power BI Dashboard
 
 ## Project Overview
-This Power BI dashboard analyzes Flipkart mobile phone listings to understand pricing trends, customer ratings, discounts, and brand positioning.
+
+This project was developed as part of the Horizon Internship program to analyze 3,114 Flipkart mobile phone listings. The dashboard provides insights into smartphone pricing, customer ratings, discounts, and brand positioning using interactive Power BI visualizations.
+
+## Business Questions Answered
+
+* Which brands offer the highest discounts?
+* Which brands maintain the highest customer ratings?
+* Which brands operate in the premium smartphone segment?
+* How do original prices compare with selling prices?
+* Which brands contribute the most to overall sales value?
 
 ## Tools Used
-- Power BI
-- Excel / CSV
-- GitHub
-- Visual Studio Code
 
-## Dataset
-The dataset contains 3,114 mobile listings from Flipkart with details such as:
+* Power BI
+* DAX
+* CSV Dataset
+* Git & GitHub
+* Visual Studio Code
 
-- Brand
-- Model
-- Memory
-- Storage
-- Rating
-- Selling Price
-- Original Price
+---
+
+## Dashboard Preview
+
+### Page 1 – Market Overview
+
+![Market Overview](Images/Page 1.png)
+
+### Page 2 – Price Analysis
+
+![Price Analysis](Images/Page 2.png)
+
+---
 
 ## Key Insights
 
-- Apple has the highest average selling price.
-- Average mobile selling price is ₹26.44K.
-- Highest listed mobile price is ₹180K.
-- Samsung and Apple contribute the largest share of total sales value.
-- POCO and Motorola offer the highest average discounts.
+* Apple dominates the premium smartphone segment with the highest average selling prices.
+* POCO and Motorola provide the highest average discounts.
+* The average smartphone selling price is ₹26.44K.
+* Customer ratings remain consistently high across major brands.
+* Original Price and Selling Price show a strong positive relationship.
 
-## Dashboard Pages
+---
 
-### Page 1 - Market Overview
-- Average Discount % by Brand
-- Average Customer Rating by Brand
-- Average Selling Price by Brand
+## Skills Demonstrated
 
-### Page 2 - Price Analysis
-- Brand Contribution to Total Sales Value
-- Top 10 Most Expensive Smartphones
-- Original Price vs Selling Price Analysis
-- Key Insights Panel
+* Data Cleaning
+* DAX Calculations
+* KPI Development
+* Dashboard Design
+* Data Visualization
+* Business Intelligence
+* Insight Generation
+
+---
+
+## Repository Structure
+
+```text
+Flipkart-Mobile-PowerBi
+│
+├── Dashboard
+│   └── Flipkart_Mobile_Dashboard.pbix
+│
+├── Dataset
+│   └── Flipkart_Mobiles.csv
+│
+├── Images
+│   ├── page1.png
+│   └── page2.png
+│
+└── README.md
+```
