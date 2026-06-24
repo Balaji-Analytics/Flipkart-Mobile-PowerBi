@@ -26,11 +26,11 @@ This project was developed as part of the Horizon Internship program to analyze 
 
 ### Page 1 – Market Overview
 
-![Market Overview](Images/Page 1.png)
+![Market Overview](Images/Page_1.png)
 
 ### Page 2 – Price Analysis
 
-![Price Analysis](Images/Page 2.png)
+![Price Analysis](Images/Page_2.png)
 
 ---
 
